@@ -58,14 +58,16 @@ body{
     /*background-color: aqua;*/
     
 }
+
 .Main-section{
     width: 100%;
     /*background-color: blueviolet;*/
 
 }
+
 .Main-ul{
     width: 80%;
-    display: flex;
+    display:flex;
     flex-flow:row wrap;
     justify-items: flex-start;
     align-items: center;
