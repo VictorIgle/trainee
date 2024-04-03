@@ -69,7 +69,7 @@ body{
     width: 80%;
     display:flex;
     flex-flow:row wrap;
-    justify-items: flex-start;
+    justify-content: flex-start;
     align-items: center;
     margin: 4rem auto;
     padding: 2rem;
@@ -114,19 +114,19 @@ body{
 
 }
 
-@media (max-width:1440px){
+@media(max-width:1440px){
     .Main-h{
         font-size: 4.5em;
     }
 }
 
-@media (max-width:960px){
+@media(max-width:960px){
     .Main-h{
         font-size:3.3em ;
     }
 }
 
-@media (max-width:560px){
+@media(max-width:560px){
     .Main-h{
         font-size:2em ;
     }
