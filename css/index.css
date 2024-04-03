@@ -103,8 +103,9 @@ body{
     
     opacity: 0;
     transition: all .9s ease;
-    
+
 }
+
 
 .Wrapper-img.isVisible{
     opacity: 1;
