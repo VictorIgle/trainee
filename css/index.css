@@ -91,7 +91,7 @@ body{
    
 }
 
-.Wrapper-img{
+.Main-img{
     /*background-color: chocolate;*/
     max-width:100%;
     height: 100vh;
@@ -107,7 +107,7 @@ body{
 }
 
 
-.Wrapper-img.isVisible{
+.Main-img.isVisible{
     opacity: 1;
 
 }
