@@ -81,7 +81,7 @@ body{
 }
 
 .Main-ul:hover > :not(:hover){
-    opacity: .5;
+    opacity: .1;
 
 }
 
